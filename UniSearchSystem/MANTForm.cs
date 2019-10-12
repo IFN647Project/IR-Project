@@ -14,6 +14,7 @@ namespace UniSearchSystem
     {
         public MANTForm()
         {
+            //test
             InitializeComponent();
         }
     }

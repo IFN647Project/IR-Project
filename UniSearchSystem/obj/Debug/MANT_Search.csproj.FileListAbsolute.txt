@@ -1,0 +1,9 @@
+C:\monsomoh\ifn647\UniSearchSystem\UniSearchSystem\UniSearchSystem\bin\Debug\UniSearchSystem.exe.config
+C:\monsomoh\ifn647\UniSearchSystem\UniSearchSystem\UniSearchSystem\bin\Debug\UniSearchSystem.exe
+C:\monsomoh\ifn647\UniSearchSystem\UniSearchSystem\UniSearchSystem\bin\Debug\UniSearchSystem.pdb
+C:\monsomoh\ifn647\UniSearchSystem\UniSearchSystem\UniSearchSystem\obj\Debug\MANT_Search.csprojAssemblyReference.cache
+C:\monsomoh\ifn647\UniSearchSystem\UniSearchSystem\UniSearchSystem\obj\Debug\UniSearchSystem.Properties.Resources.resources
+C:\monsomoh\ifn647\UniSearchSystem\UniSearchSystem\UniSearchSystem\obj\Debug\MANT_Search.csproj.GenerateResource.cache
+C:\monsomoh\ifn647\UniSearchSystem\UniSearchSystem\UniSearchSystem\obj\Debug\UniSearchSystem.exe
+C:\monsomoh\ifn647\UniSearchSystem\UniSearchSystem\UniSearchSystem\obj\Debug\UniSearchSystem.pdb
+C:\monsomoh\ifn647\UniSearchSystem\UniSearchSystem\UniSearchSystem\obj\Debug\UniSearchSystem.MANTForm.resources
